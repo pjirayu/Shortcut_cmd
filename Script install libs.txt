@@ -16,3 +16,7 @@ ipynb-py-convert (examples/plot.ipynb examples/plot.py,  examples/plot.py exampl
 
 // Convert all ipynb in folder to script
 ipython nbconvert --to script *.ipynb
+
+// Tensorboard log display
+chdir >> storing tensorboard log
+cmd >> tensorboard --logdir (folder)
