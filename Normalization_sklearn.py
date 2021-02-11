@@ -1,5 +1,5 @@
 ########################################
-### Normalization
+### Normalization (When you know the the data has a strict upper and lower bound)
 # Import MinMaxScaler
 from sklearn.preprocessing import MinMaxScaler
 
