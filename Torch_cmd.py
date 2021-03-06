@@ -2,6 +2,9 @@
 # Import the module
 import torchvision
 
+#check data in directory
+dir(torchvision)
+
 # Download resnet18
 model = torchvision.models.resnet18(pretrained=True)
 
