@@ -1,5 +1,5 @@
 Reinforced package
-pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas
+pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom
 
 jupyter and .ipy file widgets
 pip install ipywidgets
