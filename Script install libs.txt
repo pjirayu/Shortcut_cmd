@@ -1,5 +1,7 @@
 Reinforced package
 pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom
+//start in cmd line to monitor the result
+> visdom
 
 jupyter and .ipy file widgets
 pip install ipywidgets
