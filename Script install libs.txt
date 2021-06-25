@@ -12,7 +12,10 @@ conda install torch==0.4.1
 conda install torchvision -c pytorch
 
 Tensorflow GPU
+>=2.0
 pip install tensorflow-gpu
+>=1.0 <2.0
+pip install tensorflow-gpu==1.15
 
 CV2
 pip install opencv-python
