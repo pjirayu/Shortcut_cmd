@@ -16,7 +16,7 @@ conda install torchvision -c pytorch
 Tensorflow GPU
 >=2.0
 pip install tensorflow-gpu
->=1.0 <2.0 (available on python 3.7 only)
+>=1.0 <2.0 (available on python version lower than 3.7 only)
 pip install tensorflow-gpu==1.15
 
 CV2
