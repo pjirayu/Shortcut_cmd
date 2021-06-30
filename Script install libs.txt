@@ -1,5 +1,5 @@
 Reinforced package
-pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom seaborn requests
+pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom seaborn requests sklearn
 //start in cmd line to monitor the result
 > visdom
 
