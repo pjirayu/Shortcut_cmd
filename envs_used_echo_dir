@@ -1,0 +1,2 @@
+Anaconda Python: where are the virtual environments stored?
+// echo %CONDA_PREFIX%
