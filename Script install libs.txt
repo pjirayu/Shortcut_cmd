@@ -1,7 +1,11 @@
 Reinforced package
-pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom seaborn requests sklearn cython tensorboard river
+pip install numpy scipy mkl pillow lxml cython jupyter matplotlib pandas visdom seaborn requests sklearn cython tensorboard river sewar
 //start in cmd line to monitor the result
 > visdom
+
+//sewar = image similarity comparison method (https://towardsdatascience.com/measuring-similarity-in-two-images-using-python-b72233eb53c6)
+from sewar.full_ref import mse, rmse, psnr, uqi, ssim, ergas, scc, rase, sam, msssim, vifp
+print("MSE: ", mse(blur,org))
 
 jupyter and .ipy file widgets
 pip install ipywidgets
